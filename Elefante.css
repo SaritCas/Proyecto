@@ -175,3 +175,11 @@ article{
 	padding-left: 50px;
 }
 /*Termina Taxo*/
+
+/*Iniciaboton arriba*/
+
+.ir-arriba{
+	display: inline-block;
+	padding: 20px;
+}
+/*Termina boton arriba*/
